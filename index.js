@@ -10,7 +10,6 @@ function mindGame(positiveNumber){
     return result;
 }
 
-
 function evenOdd(str){
   /* This function take a string as a input and count the string length. If string length is even number its return even string. If string length is odd number its simply return odd string */
   if(typeof str !== typeof "string"){
@@ -38,7 +37,6 @@ function isLGSeven(number){
     return number * 2;
   };  
 }
-
 
 function findingBadData(array){
   /* This function take an array of numbers as a input. Then check the arrays element. And find how many of them element has negative number. And return total negative number as output*/
